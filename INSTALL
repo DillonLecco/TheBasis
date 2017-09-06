@@ -1,0 +1,9 @@
+Building TheBasis
+
+See doc/readme-qt.rst for instructions on building TheBasis QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TheBasis.
+
+See doc/build-*.txt for instructions on building thebasisd,
+the intended-for-services, no-graphical-interface, reference
+implementation of TheBasis.
