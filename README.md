@@ -1,7 +1,5 @@
 
-TheBasis development tree
-
-TheBasis is a PoS-based cryptocurrency.
+TheBasis
 
 COIN SPECIFICATIONS
 
